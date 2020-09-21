@@ -5,7 +5,7 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 
 [Метод оценки домашних заданий.](./homeworks_policy.md)<br />
 
-[Правила распространения источников](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/resources_policy.md)<br />
+[Правила распространения источников](./resources_policy.md)<br />
 
 **UPDATE 2020-05-06**
 
