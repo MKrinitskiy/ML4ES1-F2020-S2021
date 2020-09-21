@@ -19,7 +19,7 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
 |  |  | I семестр |  |
-| Лекция 0 | 22.09.2020 | Вводная лекция. Машинное обучение в науках о Земле. | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect0/Lect0.pdf) |
+| Лекция 0 | 22.09.2020 | Вводная лекция. Машинное обучение в науках о Земле. |  |
 
 
 ### Рекомендуемая литература
