@@ -25,6 +25,7 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | Лекция 2 | 06.10.2020 | Технические средства анализа данных | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect02)<br />[видеозапись](https://www.dropbox.com/s/1vmrcz3ogl825os/Lect02-2020-10-06.mp4?dl=0)|
 | Лекция 3 | 13.10.2020 | Технические средства анализа данных - 2 | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect03)<br />[видеозапись](https://www.dropbox.com/s/bpas85byoizk0n0/Lect03.mp4?dl=0) |
 | Лекция 4 | 20.10.2020 | Технические средства анализа данных - 3 | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect04)|
+| ДЗ №3    | 23.10.2020<br />дедлайн: **30.10.2020** | Оценка числа PI методом Монте-Карло.<br />Прогрммирование на Python. | [описание](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW03/)<br>[результаты](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW03/leaderboard.md) |
 
 
 
