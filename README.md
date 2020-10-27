@@ -19,14 +19,14 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
 |  |  | I семестр |  |
-| Лекция 0 | 22.09.2020 | Вводная лекция. Машинное обучение в науках о Земле. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect00) |
-| Лекция 1 | 29.09.2020 | Классификация задач в машинном обучении | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect01)<br />[видеозапись](https://www.dropbox.com/s/ycsad2gitjdbzic/Lect01-2020-09-29.mp4?dl=0) |
+| Лекция 0 | 22.09.2020 | Вводная лекция. Машинное обучение в науках о Земле. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect00) |
+| Лекция 1 | 29.09.2020 | Классификация задач в машинном обучении | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect01)<br />[видеозапись](https://www.dropbox.com/s/ycsad2gitjdbzic/Lect01-2020-09-29.mp4?dl=0) |
 | ДЗ №1    | 29.09.2020<br />дедлайн: **06.10.2020** | Задачи в науках о Земле как задачи машинного обучения | [описание](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW01/HW01.md)<br>[результаты](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW01/leaderboard.md) |
-| Лекция 2 | 06.10.2020 | Технические средства анализа данных | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect02)<br />[видеозапись](https://www.dropbox.com/s/1vmrcz3ogl825os/Lect02-2020-10-06.mp4?dl=0)|
-| Лекция 3 | 13.10.2020 | Технические средства анализа данных - 2 | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect03)<br />[видеозапись](https://www.dropbox.com/s/bpas85byoizk0n0/Lect03.mp4?dl=0) |
-| Лекция 4 | 20.10.2020 | Технические средства анализа данных - 3 | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect04)<br />[видеозапись](https://www.dropbox.com/s/bfy1zwydhzyflhx/Lect04.mp4?dl=0) |
+| Лекция 2 | 06.10.2020 | Технические средства анализа данных | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect02)<br />[видеозапись](https://www.dropbox.com/s/1vmrcz3ogl825os/Lect02-2020-10-06.mp4?dl=0)|
+| Лекция 3 | 13.10.2020 | Технические средства анализа данных - 2 | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect03)<br />[видеозапись](https://www.dropbox.com/s/bpas85byoizk0n0/Lect03.mp4?dl=0) |
+| Лекция 4 | 20.10.2020 | Технические средства анализа данных - 3 | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect04)<br />[видеозапись](https://www.dropbox.com/s/bfy1zwydhzyflhx/Lect04.mp4?dl=0) |
 | ДЗ №3    | 23.10.2020<br />дедлайн: **30.10.2020** | Оценка числа PI методом Монте-Карло.<br />Прогрммирование на Python. | [описание](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW03/)<br>[результаты](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW03/leaderboard.md) |
-| Лекция 5 | 27.10.2020 | Основы подхода машинного обучения<br />Вероятностные основы линейной регрессии | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect05)<br />[видеозапись]() |
+| Лекция 5 | 27.10.2020 | Основы подхода машинного обучения<br />Вероятностные основы линейной регрессии | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect05)<br />[видеозапись]() |
 | ДЗ №4    | 27.10.2020<br />дедлайн: **03.11.2020** | Функция потерь линейной регрессии в предположении о лапласовском распределении данных | [результаты](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW04/leaderboard.md) |
 
 
