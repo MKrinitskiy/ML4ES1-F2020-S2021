@@ -26,7 +26,7 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | Лекция 3 | 13.10.2020 | Технические средства анализа данных - 2 | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect03)<br />[видеозапись](https://www.dropbox.com/s/bpas85byoizk0n0/Lect03.mp4?dl=0) |
 | Лекция 4 | 20.10.2020 | Технические средства анализа данных - 3 | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect04)<br />[видеозапись](https://www.dropbox.com/s/bfy1zwydhzyflhx/Lect04.mp4?dl=0) |
 | ДЗ №3    | 23.10.2020<br />дедлайн: **30.10.2020** | Оценка числа PI методом Монте-Карло.<br />Прогрммирование на Python. | [описание](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW03/)<br>[результаты](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW03/leaderboard.md) |
-| Лекция 5 | 27.10.2020 | Основы подхода машинного обучения<br />Вероятностные основы линейной регрессии | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect05)<br />[видеозапись]() |
+| Лекция 5 | 27.10.2020 | Основы подхода машинного обучения<br />Вероятностные основы линейной регрессии | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect05)<br />[видеозапись](https://www.dropbox.com/s/55glmhl9fiocdoj/Lect05.mp4?dl=0) |
 | ДЗ №4    | 27.10.2020<br />дедлайн: **03.11.2020** | Функция потерь линейной регрессии в предположении о лапласовском распределении данных | [результаты](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW04/leaderboard.md) |
 
 
