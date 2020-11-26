@@ -31,6 +31,8 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | Лекция 6 | 03.11.2020 | Основы подхода машинного обучения<br />Признаковое описание объектов и порождение признаков | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect06)<br />[видеозапись](https://www.dropbox.com/s/h2k4ybmj82af5jf/Lect06.mp4?dl=0) |
 | Лекция 7 | 10.11.2020 | Линейная регрессия: реализация в коде. Аналитическое решение.<br />Особенности моделей машинного обучения на примере линейной регрессии. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect07)<br />[видеозапись](https://www.dropbox.com/s/al8ttssr5c5ct9m/Lect07.mp4?dl=0) |
 | Лекция 8 | 17.11.2020 | Свойства моделей машинного обучения на примере линейной регрессии. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect08)<br />[видеозапись](https://www.dropbox.com/s/f07xdhjok7j5zrj/Lect08.mp4?dl=0) |
+| Лекция 9 | 26.11.2020 | Неопределенность в моделях машинного обучения | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect09)<br />[видеозапись-2019](https://www.dropbox.com/s/rqub7g70u56ebmt/ML4ES-2019-11-25-Seminar07.mp4?dl=0)<br />[видеозапись-2020](https://www.dropbox.com/s/y009zw5xfpd13nq/Lect09.mp4?dl=0) |
+| ДЗ №5    | 26.11.2020<br />дедлайн: **15.12.2020** | Оценка неопределенностей модели линейной регрессии | [результаты](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW05/leaderboard.md) |
 
 
 
