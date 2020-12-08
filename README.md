@@ -14,6 +14,17 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 [Полный список](https://link.springer.com/search/page/3?facet-content-type="Book"&package=openaccess) книг издательства Springer, выложенных в открытый доступ для свободной загрузки.
 
 
+## Зачетная сессия I-го семестра
+
+**UPDATE 2020-12-08**
+Поскольку лекция 08.12.2020 - заключительная, состав домашних заданий зафиксирован на пяти. В [плане](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/homeworks_policy.md) по домашним заданиям и их оценке отражен текущий состав ДЗ за I семестр с оценками, касающиеся автозачетов и допуска к зачетам по 1му семестру.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/leaderboard_1semester.md) будут отметки об автозачетах, допуске к зачету и зачетах.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/term1_exam.md) можно ознакомиться со списком вопросов к зачету за первый семестр.
+
+
+
 -------
 
 | Title | Date | Topic | Content |
