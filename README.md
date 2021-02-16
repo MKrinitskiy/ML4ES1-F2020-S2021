@@ -47,6 +47,8 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | ДЗ №5    | 26.11.2020<br />дедлайн: **15.12.2020** | Оценка неопределенностей модели линейной регрессии | [описание](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW05/HW05-writeup.ipynb)<br />[результаты](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW05/leaderboard.md)<br />[все материалы и данные](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/HW05)<br />[видеозапись](https://www.dropbox.com/s/1zni7n875rtwacj/HW05-discussion.mp4?dl=0)<br />[заметки с консультации](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW05/HW5_discussion.pdf) |
 | Лекция 10 | 01.12.2020 | Градиентная оптимизация<br />Метод градиентного спуска (на примере модели линейной регрессии) | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect10)<br />[видеозапись](https://www.dropbox.com/s/fnr8s66557xnuxb/Lect10.mp4?dl=0) |
 | Лекция 11 | 08.12.2020 | Градиентная оптимизация<br />Метод стохастического градиентного спуска | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect11)<br />[видеозапись](https://www.dropbox.com/s/8mrn6pgmp7egfr0/Lect11.mp4?dl=0) |
+|  |  | II семестр |  |
+| Лекция 12 | 16.02.2021 | Задача классификации.<br />Методы МО: K ближайших соседей (KNN), байесовский классификатор. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect12)<br />[видеозапись](https://www.dropbox.com/s/alnwzq1eshml2rg/ML4ES1-2021-02-16.mp4?dl=0) |
 
 
 ### Рекомендуемая литература
@@ -63,11 +65,11 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 
 - [*Hastie T., Tibshirani R., Friedman J.* "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition"](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) / T. Hastie, R. Tibshirani, J. Friedman, 2-е изд., New York: Springer-Verlag, 2009.
 
-  ​	Первод на русский язык: ([Фридман Дж., Хасти Т., Тибширани Р. "Основы статистического обучения"](http://www.combook.ru/product/11965387/))
+  ​	Первод на русский язык: ([Фридман Дж., Хасти Т., Тибширани Р. "Основы статистического обучения"](https://www.ozon.ru/product/osnovy-statisticheskogo-obucheniya-intellektualnyy-analiz-dannyh-logicheskiy-vyvod-i-prognozirovanie-180548799/))
 
 - *Bishop C.* "Pattern Recognition and Machine Learning" / C. Bishop, New York: Springer-Verlag, 2006.
 
-  ​	Перевод на русский язык: [Бишоп К.М. "Распознавание образов и машинное обучение"](http://www.combook.ru/product/11965388/)
+  ​	Перевод на русский язык: [Бишоп К.М. "Распознавание образов и машинное обучение"](https://www.ozon.ru/product/raspoznavanie-obrazov-i-mashinnoe-obuchenie-bishop-kristofer-m-180548800/)
 
 - [Matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) - справочник по соотношениям в матричной форме
 
