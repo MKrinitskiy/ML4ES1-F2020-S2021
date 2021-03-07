@@ -49,6 +49,7 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | Лекция 11 | 08.12.2020 | Градиентная оптимизация<br />Метод стохастического градиентного спуска | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect11)<br />[видеозапись](https://www.dropbox.com/s/8mrn6pgmp7egfr0/Lect11.mp4?dl=0) |
 |  |  | II семестр |  |
 | Лекция 12 | 16.02.2021 | Задача классификации.<br />Методы МО: K ближайших соседей (KNN), байесовский классификатор. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect12)<br />[видеозапись](https://www.dropbox.com/s/alnwzq1eshml2rg/ML4ES1-2021-02-16.mp4?dl=0) |
+| Лекция 13 | 02.03.2021 | Задача классификации.<br />Наивный байесовский классификатор, LDA, QDA. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect13)<br />[видеозапись](https://www.dropbox.com/s/fwu2hdk6y0tj0mv/ML4ES1-2021-03-02.mp4?dl=0) |
 
 
 ### Рекомендуемая литература
