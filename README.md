@@ -52,6 +52,7 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | Лекция 13 | 02.03.2021 | Задача классификации.<br />Наивный байесовский классификатор, LDA, QDA. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect13)<br />[видеозапись](https://www.dropbox.com/s/fwu2hdk6y0tj0mv/ML4ES1-2021-03-02.mp4?dl=0) |
 | Лекция 14 | 09.03.2021 | Задача классификации.<br />Логистическая регрессия. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect14)<br />[видеозапись](https://www.dropbox.com/s/z36u8qq4rpwqeno/Lect14.mp4?dl=0) |
 | Лекция 15 | 16.03.2021 | Задача классификации.<br />Мультиномиальная логистическая регрессия.<br />Библиотеки автоматического вычисления градиента. [Jax](https://github.com/google/jax). | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect15)<br />[видеозапись](https://www.dropbox.com/s/4ug0vqmp2mqsqvc/Lect15.mp4?dl=0) |
+| Лекция 16 | 23.03.2021 | Задача классификации.<br />Меры качества в задаче классификации. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect16)<br />[видеозапись](https://www.dropbox.com/s/pnc5xgiz8dh7mbr/Lect16.mp4?dl=0) |
 
 ### Рекомендуемая литература
 
