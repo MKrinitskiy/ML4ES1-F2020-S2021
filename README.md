@@ -55,6 +55,7 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | Лекция 16 | 23.03.2021 | Задача классификации.<br />Меры качества в задаче классификации. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect16)<br />[видеозапись](https://www.dropbox.com/s/pnc5xgiz8dh7mbr/Lect16.mp4?dl=0) |
 | Лекция 17 | 06.04.2021 | Обобщенные линейные модели (GLM).<br />Обобщенные аддитивные модели (GAM). | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect17)<br />[видеозапись](https://bit.ly/3sUEtLm) |
 | ДЗ №6     | 06.04.2020<br />дедлайн: **20.04.2020** | Мультиномиальная логистическая регрессия и оценка качества моделей классификации | [описание и материалы](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW06/) |
+| Лекция 18 | 13.04.2021 | Искусственные нейронные сети.<br />Многослойный перцептрон. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect18)<br />[видеозапись](https://bit.ly/3wUSsDi) |
 
 ### Рекомендуемая литература
 
