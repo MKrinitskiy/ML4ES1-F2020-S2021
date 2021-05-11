@@ -17,6 +17,8 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 
 ## Зачетная сессия II-го семестра
 
+[**Здесь**](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/term2_exam.md) можно ознакомиться со списком вопросов к зачету за II семестр.
+
 
 
 ## Зачетная сессия I-го семестра
