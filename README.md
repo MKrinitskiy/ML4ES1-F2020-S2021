@@ -14,6 +14,11 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 [Полный список](https://link.springer.com/search/page/3?facet-content-type="Book"&package=openaccess) книг издательства Springer, выложенных в открытый доступ для свободной загрузки.
 
 
+
+## Зачетная сессия II-го семестра
+
+
+
 ## Зачетная сессия I-го семестра
 
 **UPDATE 2020-12-08**
@@ -56,7 +61,7 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | Лекция 17 | 06.04.2021 | Обобщенные линейные модели (GLM).<br />Обобщенные аддитивные модели (GAM). | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect17)<br />[видеозапись](https://bit.ly/3sUEtLm) |
 | ДЗ №6     | 06.04.2020<br />дедлайн: **20.04.2020** | Мультиномиальная логистическая регрессия и оценка качества моделей классификации | [описание и материалы](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/HW06/) |
 | Лекция 18 | 13.04.2021 | Искусственные нейронные сети.<br />Многослойный перцептрон. | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect18)<br />[видеозапись](https://bit.ly/3wUSsDi) |
-| Занятие 19<br />(практика) | 23.04.2021 | Искусственные нейронные сети.<br />Реализация MLP своими руками. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect19)<br />[видеозапись](https://bit.ly/3aD8JDn)<br />[leaderboard]() |
+| Занятие 19<br />(практика) | 23.04.2021 | Искусственные нейронные сети.<br />Реализация MLP своими руками. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect19)<br />[видеозапись](https://bit.ly/3aD8JDn)<br />[leaderboard](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/blob/master/Lect19/leaderboard.md) |
 | Лекция 20 | 27.04.2021 | Метод опорных векторов | [материалы лекции](https://github.com/MKrinitskiy/ML4ES1-F2020-S2021/tree/master/Lect20)<br />[видеозапись](https://bit.ly/3gJ6JgD) |
 
 
